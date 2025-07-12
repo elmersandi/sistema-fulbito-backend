@@ -1,0 +1,22 @@
+# Node (frontend)
+node_modules/
+dist/
+.vite/
+.env
+
+# Python (backend)
+*.pyc
+__pycache__/
+db.sqlite3
+env/
+venv/
+*.pyo
+*.pyd
+*.sqlite3
+
+# Visual Studio Code
+.vscode/
+
+# Otros
+.DS_Store
+*.log
